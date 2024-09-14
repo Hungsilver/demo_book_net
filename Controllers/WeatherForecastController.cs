@@ -13,6 +13,8 @@ namespace CRUD_ASP.NET_CORE.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
+        private string hellooMynameHng;
+
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
