@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Learn\\CRUD_ASP.NET_CORE\\CRUD_ASP.NET_CORE.csproj": {}
+    "D:\\tamviet\\project\\demo_book_net\\CRUD_ASP.NET_CORE.csproj": {}
   },
   "projects": {
-    "F:\\Learn\\CRUD_ASP.NET_CORE\\CRUD_ASP.NET_CORE.csproj": {
+    "D:\\tamviet\\project\\demo_book_net\\CRUD_ASP.NET_CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Learn\\CRUD_ASP.NET_CORE\\CRUD_ASP.NET_CORE.csproj",
+        "projectUniqueName": "D:\\tamviet\\project\\demo_book_net\\CRUD_ASP.NET_CORE.csproj",
         "projectName": "CRUD_ASP.NET_CORE",
-        "projectPath": "F:\\Learn\\CRUD_ASP.NET_CORE\\CRUD_ASP.NET_CORE.csproj",
-        "packagesPath": "C:\\Users\\hungs\\.nuget\\packages\\",
-        "outputPath": "F:\\Learn\\CRUD_ASP.NET_CORE\\obj\\",
+        "projectPath": "D:\\tamviet\\project\\demo_book_net\\CRUD_ASP.NET_CORE.csproj",
+        "packagesPath": "C:\\Users\\HOANG TUAN\\.nuget\\packages\\",
+        "outputPath": "D:\\tamviet\\project\\demo_book_net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hungs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HOANG TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
